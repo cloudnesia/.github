@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/cloudnesia/.github/blob/main/assets/logo.png?raw=true" alt="Cloudnesia Logo" width="500"/>
-</p>
 
 <h1 align="center">Selamat Datang di Cloudnesia!</h1>
 <p align="center">
